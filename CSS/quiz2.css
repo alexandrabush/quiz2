@@ -1,0 +1,29 @@
+/* styles for quiz 2 in 1520 */
+
+html {
+	background-color: #c4dbbe;
+}
+
+img {
+	height: 250px;
+    width: 200px;
+}
+
+h4 {
+	font: 100 30px 'Merienda One', Helvetica, sans-serif;
+ 	color: rgba(0,0,0,0.7);
+ 	text-shadow: 1px 1px 1px #fff;
+}
+
+form {
+	font: 100 20px 'Merienda One', Helvetica, sans-serif;
+ 	color: rgba(0,0,0,0.7);
+ 	text-shadow: 1px 1px 1px #fff;
+}
+
+p {
+	font: 100 20px 'Merienda One', Helvetica, sans-serif;
+ 	color: rgba(0,0,0,0.7);
+ 	text-shadow: 1px 1px 1px #fff;
+}
+
